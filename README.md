@@ -1,2 +1,3 @@
-# lakmusz.hu-header-fix
-Chrome extension for fix lakmusz.hu annoying header glitch
+# lakmusz.hu_header_fix
+
+Fix for annoying header glitch of lakmusz.hu
